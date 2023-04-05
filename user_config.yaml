@@ -1,0 +1,16 @@
+# Salesforce connection information
+hostName: "(DOMAIN NAME).my.salesforce.com"
+apiVersion : "57.0"
+userName: "(LOGIN USER NAME)"
+password: "(LOGIN PASSWORD)"
+
+# Download path
+downloadPath: "download"
+
+# Target object
+object: "Opportunity"
+
+# Extraction date
+#startDate: "2021-01-01"
+#endDate: "2021-09-30"
+
